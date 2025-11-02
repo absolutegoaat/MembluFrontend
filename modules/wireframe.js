@@ -59,12 +59,6 @@ wireframes.profile = `<div class="profile">Test</div>`
 wireframes.community = `<h1>Community</h1><div id="exampleGroup"><h2>Space Name</h2><button>Leave Space</button></div>`;
 // wf: settings
 wireframes.settings = `
-<div class="settingsBox"><label for="music">Background Music:<br></label>
-  <select name="music" id="music-dropdown">
-    <option value="None">None</option>
-  </select><br>
-  <span style="font-size: 15px;">Currently playing: </span><pre id="cplaying"></pre>
-</div>
 <div class="settingsBox"><label for="themes">Theme<br></label>
   <select name="theme" id="theme-dropdown">
     
